@@ -1,33 +1,58 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jinwon&fontAlign=80&fontAlignY=40&color=gradient)
 ---
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
+<h3>🚞 경력 🚞</h3>
+```
+마이다스인
+경솔기반그룹
+비즈니스 플랫폼 개발셀
+
+Java / Spring 백엔드 개발자
+2020.01.06 ~ 현재
+```
+
+<h3>📚 개발 기술 📚</h3>
+
+😀 실무에서 사용하고 있어요.
+<br>
+🤢 실무에서 사용하고 있지만 미숙해요.
+<br>
+🥵 스스로 공부한 수준이에요.
+
+    Backend
+     - 😀 Spring Boot, 😀 Spring MVC, 😀 Spring Security, 😀 Spring Data JPA, 😀 Spring Data Redis, 😀 SpringDoc, 🤢 Spring Cloud *
+     - 🤢 Kotest, 🤢 KDoc, 🤢 Dokka, 🤢 Junit5
+     - 😀 JPA, 😀 Hibernate, 😀 Querydsl, 😀 Mybatis, 🤢 Hikaricp
+     - 😀 Gradle, 😀 Maven
+     - 😀 Nexus
+     - 😀 Intellij
+    
+    DevOps
+    - 😀 MySql, 😀 MariaDB
+    - 🤢 Jenkins, 🤢 Bitbucket Pipeline
+    - 🤢 AWS SQS, 😀 AWS Elastic Cache, 😀 RDS (Mysql / Maria), 😀 S3, 😀 EC2, 🥵 EKS, 🤢 AWS MQ, 🥵 Cloud9, 🥵 Cloud Watch
+    - 🤢 Tomcat
+    - 😀 Pinpoint, 😀 Kibana, 🤢 Sentry
+    
+    업무
+    - 😀 Confluence, 😀 Jira, 😀 Bitbucket
+
+<h3>🥕 개발 언어 🥕</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Jameson&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">🌈 개발 블로그 🌈</h3>
-<p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+
+<h3>🌈 ETC 🌈</h3>
+<p>
+  <a href="https://jinwon829.notion.site/3-960d2721ee40401db2c3c4b29b33e45f"><img src="https://img.shields.io/badge/경력 기술서-0030DB?style=flat-square&logo=Notion&logoColor=white&link=https://jinwon829.notion.site/3-960d2721ee40401db2c3c4b29b33e45f"/></a>&nbsp
+  <a href="https://jinwon829.notion.site/73fce8e395fc4409866039eb11d00fdf?v=ec7f8082dee84963819ca443651e10e7"><img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Notion&logoColor=white&link=https://jinwon829.notion.site/73fce8e395fc4409866039eb11d00fdf?v=ec7f8082dee84963819ca443651e10e7"/></a>&nbsp
+  <a href="mailto:olo_jiwnon@naver.com"><img src="https://img.shields.io/badge/Naver-d3236?style=flat-square&logo=Naver&logoColor=white&link=olo_jinwon@naver.com"/></a>
 </p>
 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=wlsdnjs829&locale=kr)
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdnjs829)](https://github.com/anuraghazra/github-readme-stats)
+---
