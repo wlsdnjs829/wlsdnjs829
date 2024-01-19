@@ -1,6 +1,3 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Jinwon&fontAlign=80&fontAlignY=40&color=gradient)
----
-
 <h3>🚞 경력 🚞</h3>
 
     마이다스인
